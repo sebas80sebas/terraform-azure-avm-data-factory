@@ -1,0 +1,10 @@
+# Changelog
+
+## [0.1.0] - 2026-02-09
+
+### Added
+- Initial release of the Data Factory AVM wrapper.
+- Support for Self-Hosted Integration Runtimes.
+- Support for Linked Services.
+- Diagnostic Settings integration.
+- Examples: Basic, Diagnostic Settings, SHIR, Linked Service.
